@@ -11,7 +11,7 @@ accelerate
 spacy
 fastapi==0.89.1
 gradio==3.16.2
-transformers==4.26.0
+transformers==4.36.0
 uvicorn==0.20.0
 scipy
 seaborn
