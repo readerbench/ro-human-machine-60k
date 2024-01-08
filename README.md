@@ -46,3 +46,10 @@ Romanian multidomain human-machine dataset
 |          | Backtranslation| mBART           | 0.7477  |           |
 | Total    |               |                |           | 59,096    |
 
+# detection of machine generated text
+
+![MGT]()
+
+# paper
+
+Cite this as: reference paper to be uploaded soon.
