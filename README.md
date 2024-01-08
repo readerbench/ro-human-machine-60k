@@ -1,6 +1,6 @@
 # ro-human-machine-60k
 
-Romanian multidomain human-machine dataset
+Romanian multidomain human-machine dataset, available open-source (https://huggingface.co/datasets/readerbench/ro-human-machine-60k).
 
 | Domain   | Method        | Model          | Avg TTR | Aggregate |
 |----------|---------------|----------------|---------|-----------|
