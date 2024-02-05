@@ -49,7 +49,7 @@ Romanian multidomain human-machine dataset
 
 # detection of machine generated text
 
-![MGT](https://github.com/readerbench/ro-mgt-detection/blob/main/method.png)
+![MGT](https://github.com/readerbench/ro-mgt-detection/blob/main/detection.jpg)
 
 # paper
 
