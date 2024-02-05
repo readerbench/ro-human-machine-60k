@@ -53,4 +53,4 @@ Romanian multidomain human-machine dataset
 
 # paper
 
-Cite this as: reference paper to be uploaded soon.
+Cite this as: Nitu, M.; Dascalu, M. Beyond Lexical Boundaries: LLM-Generated Text Detection for Romanian Digital Libraries. Future Internet 2024, 16, 41. https://doi.org/10.3390/fi16020041
