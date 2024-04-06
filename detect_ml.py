@@ -2,7 +2,7 @@
 ML-based Detector
 Feature selection: extract ReaderBench Textual Complexity Indices (RBI) and use Kruskal-Wallis Test (Mean Ranks) to select top 100 RBIs; in parallel compute burstiness.
 Input features: top 100 RBIs x burstiness score
-Perform Multiclass Text Classification with XGBoost
+Perform Binary Text Classification with XGBoost
 SHAP Analysis 
 '''
 
